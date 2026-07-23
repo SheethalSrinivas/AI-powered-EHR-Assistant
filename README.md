@@ -1031,6 +1031,8 @@ for i, m in enumerate(out["messages"]):
     if isinstance(content, str):
         print(content[:800])  # adjust length if needed
 
+        ...
+
         
     
 
